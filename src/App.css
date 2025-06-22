@@ -45,17 +45,14 @@
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  font-family: Arial, sans-serif;
 }
 
 .app-title {
   text-align: center;
-  color: #333;
 }
 
 .error-message {
   padding: 20px;
-  color: red;
   text-align: center;
   font-size: 1.2em;
 }
@@ -67,7 +64,6 @@
 }
 
 .today-weather {
-  background-color: #f5f5f5;
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 20px;
@@ -89,7 +85,6 @@
 }
 
 .forecast-card {
-  background-color: #f5f5f5;
   padding: 15px;
   border-radius: 10px;
   min-width: 150px;
